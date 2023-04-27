@@ -1,3 +1,4 @@
+To my co developers  
 Once you cloned this do not forget to npm install to install every node package  
 then type npm start in the console 
 
