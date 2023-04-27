@@ -4,6 +4,9 @@ then type npm start in the console
 
 #Documentation 
 
+Pushing to the repo:  
+Kindly push it inside the Development branch thank you
+
 Folder Structure:  
 always remember to structure them well 
 for example:  
